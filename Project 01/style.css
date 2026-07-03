@@ -1,0 +1,14 @@
+body {
+    font-family: Consolas;
+    text-align: center;
+    background-image: url('bg.jpg');
+    width:99%;
+    height:auto;
+    background-size:cover;
+
+}
+
+h1 {
+    font-size: 60px;
+    color: blueviolet;
+}
