@@ -1,0 +1,45 @@
+.h11 {
+    text-align:center;
+    font-family:Cursive;
+    font-size:60px;
+    color:rgb(255, 255, 255);
+}
+
+.p01 {
+    font-size:20px;
+    width:800px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:Consolas;
+    color:white;
+}
+
+.div1 {
+    background-image:url('/images/hero-img.jpg');
+    background-size:cover;
+    padding:100px;
+}
+
+img {
+    margin-top:30px;
+}
+
+.p02 {
+    font-size:30px;
+    width:800px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:Consolas;
+    color:rgb(0, 0, 0);
+}
+
+.div2 {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+span {
+    margin-left:4px;
+}
