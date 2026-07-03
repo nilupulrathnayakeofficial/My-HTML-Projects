@@ -1,0 +1,28 @@
+body {
+    background-color:#F3B0B7;
+}
+
+ul {
+    list-style-type:none;
+}
+
+li {
+    font-size:20px;
+    font-family:consolas;
+    padding-top:15px;
+}
+
+a {
+    text-decoration:none;
+    color:#0006EC;
+}
+
+a:hover {
+    color:red;
+}
+
+li:hover {
+    font-style:italic;
+    font-size:21px;
+    font-weight:900;
+}
