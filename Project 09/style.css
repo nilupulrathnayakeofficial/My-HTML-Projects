@@ -1,0 +1,31 @@
+body {
+    background-image: url('bg.jpg');
+    width:100%;
+    background-size:cover;
+    font-family:Cursive;
+}
+
+h1 {
+    font-family:Consolas;
+    font-size:60px;
+    text-align:center;
+}
+
+label {
+    font-size:16px;
+}
+
+input {
+    margin-bottom:15px;
+    padding:5px;
+    border-radius:14px;
+    border:none;
+}
+
+.system:hover {
+    background-color:green;
+}
+
+.tem:hover {
+    background-color:red;
+}
