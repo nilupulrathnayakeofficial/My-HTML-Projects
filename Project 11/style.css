@@ -1,0 +1,56 @@
+body {
+    background-image: url('bg.jpg');
+    width:99%;
+    height:auto;
+    background-size:cover;
+}
+
+.mytext {
+    font-size: 20px;
+    font-family: Cursive;
+    padding: 20px 30px;
+    border-radius: 12px;
+    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.google-image {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    max-width:fit-content;
+
+}
+
+.my-button {
+    padding:20px 30px;
+    font-size: 20px;
+    font-family:arial;
+    background-color:#33A853;
+    color:white;
+    border:none;
+    border-radius:16px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+}
+
+button {
+    padding:20px 30px;
+    font-size: 20px;
+    font-family:arial;
+    background-color:red;
+    color:white;
+    border:none;
+    border-radius:16px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+}
